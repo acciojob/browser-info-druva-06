@@ -1,4 +1,3 @@
-console.log(navigator)
 
 let browserInfo = document.getElementById('browser-info')
 let para = document.createElement('p')
